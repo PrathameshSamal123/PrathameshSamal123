@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prathamesh.
-- 🌱 I’m currently learning Deep Learning, NLP, Data Structures & Algorithms.
+- 🌱 I’m currently learning Deep Learning (CNN), Data Structures & Algorithms.
 - 📫 How to reach me: samalprathamesh123@gmail.com
 
 
