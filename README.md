@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Prathamesh.
-- 🌱 I’m currently learning Machine Learning, Deep Learning (CNN) and Image Processing
 - 📫 How to reach me: samalprathamesh123@gmail.com
 
 
