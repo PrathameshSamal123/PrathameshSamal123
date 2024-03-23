@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Prathamesh.
-- 📫 How to reach me: samalprathamesh123@gmail.com
+Hi, I'm Prathamesh Samal. Currently, I am working as a Data Engineer at Signify (formerly Philips Lighting).
+
 
 
 <!---
